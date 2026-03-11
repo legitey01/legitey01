@@ -3,8 +3,15 @@
 
 # 👾 Bem-vindo ao meu domínio digital
 
-Sou **Rafael** (legitey), especialista em **Cyber Segurança Avançada**, **Pentest**, **Red Teaming** e **infraestruturas seguras em Linux Red Hat**.  
+Sou **Rafael Camargo** (legitey), **desenvolvedor Full Stack especialista** em **Cyber Segurança Avançada**, **Pentest**, **Red Teaming** e **infraestruturas seguras em Linux Red Hat**.  
 Minha missão é simples: **criar, proteger e elevar sistemas ao nível máximo de segurança e performance**. 🚀
+
+---
+
+## 💼 Experiência & Atuação
+- **Lovable** — Full Stack.
+- **Emergent & Administrador de Servidores AI.**
+- **Hostinger / VPS** — Administrador de Servidores VPS e Criador de Interface Web para gerenciamento de VPS.
 
 ---
 
@@ -26,7 +33,6 @@ Infraestrutura → Kubernetes, Docker, Ansible, Terraform
 ```
 
 ---
-
 ## 🛠️ Tecnologias & Ferramentas (Badges)
 ![Linux](https://img.shields.io/badge/Linux-8a2be2?style=for-the-badge&logo=linux&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-8a2be2?style=for-the-badge&logo=redhat&logoColor=white)
