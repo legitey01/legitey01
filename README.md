@@ -103,8 +103,3 @@ Estudo e uso prático das principais ferramentas de pentest e análise forense e
 
 ---
 
-## 📌 Notas finais
-- Trabalho apenas em **ambientes autorizados** para testes de segurança.  
-- Aberto a colaborações em projetos de segurança, revisão de código e criação de labs/CTFs.  
-- Quer que eu adapte esse README com **seus link e dados reais** (nome da instituição, email, links de portfólio, e repositórios)?  
-
