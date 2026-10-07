@@ -1,105 +1,390 @@
-<!-- Banner CyberSec -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=150&section=header&text=⚡%20Cyber%20Security%20Engineer%20|%20Red%20Hat%20Expert%20⚡&fontSize=28&fontColor=ffffff&animation=fadeIn)
+<div align="center">
 
-# 👾 Bem-vindo ao meu domínio digital
+<a href="https://list-coder.com/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,50:171717,100:ff6b00&height=230&section=header&text=RAFAEL%20CAMARGO&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CEO%20%26%20Founder%20of%20List%20Enterprise&descAlignY=58&descSize=19&descColor=ffffff" width="100%"/>
+</a>
 
-Sou **Rafael Camargo** (legitey), **desenvolvedor Full Stack especialista** em **Cyber Segurança Avançada**, **Pentest**, **Red Teaming** e **infraestruturas seguras em Linux Red Hat**.  
-Minha missão é simples: **criar, proteger e elevar sistemas ao nível máximo de segurança e performance**. 🚀
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=FF6B00&center=true&vCenter=true&width=1000&height=90&lines=CEO+%26+Founder+of+List+Enterprise;Building+the+future+of+AI+%26+Software;Creator+of+List+Coder;Building+AI+Models+with+List+Cloud;AI+%7C+Developer+Tools+%7C+Cybersecurity;Build+faster.+Think+bigger.+Ship+smarter." alt="Typing Animation" />
+
+<br>
+
+<a href="https://list-coder.com/">
+<img src="https://img.shields.io/badge/LIST%20ENTERPRISE-111111?style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://list-coder.com/">
+<img src="https://img.shields.io/badge/LIST%20CODER-FF6B00?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</a>
+
+<a href="https://huggingface.co/List-cloud">
+<img src="https://img.shields.io/badge/LIST%20AI%20MODELS-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white" />
+</a>
+
+<a href="https://github.com/legitey01">
+<img src="https://img.shields.io/github/followers/legitey01?style=for-the-badge&logo=github&label=Followers" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=legitey01&style=for-the-badge&color=ff6b00" />
+
+<br><br>
+
+### 🚀 Building AI, software and infrastructure for the next generation of developers
+
+### 🌎 50M+ users across the List ecosystem
+
+</div>
 
 ---
 
-## 💼 Experiência & Atuação
-- **Lovable** — Full Stack.
-- **Emergent & Administrador de Servidores AI.**
-- **Hostinger / VPS** — Administrador de Servidores VPS e Criador de Interface Web para gerenciamento de VPS.
+# 👋 About Me
 
----
+I'm **Rafael Camargo**, also known as **legitey01**.
 
-## 🛡️ Expertise em Cyber Segurança
-- 🔐 **Pentest Avançado** — exploração de vulnerabilidades, engenharia reversa e testes de intrusão.  
-- 🧑‍💻 **Red Team Operations** — simulação de ataques reais, análise de risco e defesa ofensiva.  
-- 🛡️ **Blue Team Skills** — SIEM, detecção de intrusões, hardening de servidores.  
-- 📡 **Segurança em Redes & Cloud** — Firewalls, VPNs, Kubernetes, AWS Security, Azure Sentinel.  
-- 🔑 **Criptografia & Segurança de Dados** — AES, RSA, Hashing, PKI, SSL/TLS.
+I'm the **CEO & Founder of List Enterprise**, the company behind **List Coder** and the growing List technology ecosystem.
 
----
+My work focuses on building products at the intersection of:
 
-## ⚡ Programação e Ferramentas de Alto Nível
 ```text
-Linguagens   →  C++, C#, Java, Python, Bash, PowerShell
-Segurança    →  Exploit Dev, Criptografia, Ethical Hacking, Malware Analysis
-Automação    →  Scripts Red Hat Linux, DevSecOps, CI/CD
-Infraestrutura → Kubernetes, Docker, Ansible, Terraform
+Artificial Intelligence
+        ×
+Software Engineering
+        ×
+Developer Tools
+        ×
+Cybersecurity
+        ×
+Cloud Infrastructure
 ```
 
----
-## 🛠️ Tecnologias & Ferramentas (Badges)
-![Linux](https://img.shields.io/badge/Linux-8a2be2?style=for-the-badge&logo=linux&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-8a2be2?style=for-the-badge&logo=redhat&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-8a2be2?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-8a2be2?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-8a2be2?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-8a2be2?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-8a2be2?style=for-the-badge&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-8a2be2?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-8a2be2?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-8a2be2?style=for-the-badge&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-8a2be2?style=for-the-badge&logo=amazon-aws&logoColor=white)
+I'm especially interested in turning advanced AI into practical tools that developers can actually use.
 
 ---
 
-## 🔧 Ferramentas estudadas (Kali Linux / Offensive)
-Estudo e uso prático das principais ferramentas de pentest e análise forense encontradas em Kali Linux:
+# 🏢 List Enterprise
 
-- **Nmap** — varredura de portas, fingerprinting e scripts NSE.  
-- **Metasploit Framework** — exploração, payloads e pós-exploração.  
-- **Burp Suite (Community/Pro)** — interceptação e análise de tráfego HTTP(S).  
-- **Wireshark / Tshark** — captura e análise de pacotes de rede.  
-- **sqlmap** — automação de SQL Injection.  
-- **John the Ripper / Hashcat** — ataques a hashes e wordlists.  
-- **Aircrack-ng / Bettercap** — auditoria em redes wireless.  
-- **Nikto / OWASP ZAP** — scanners de vulnerabilidades web.  
-- **OpenVAS / Greenbone** — escaneamento de vulnerabilidades.  
-- **Volatility / Autopsy** — análise forense de memória e disco.  
-- **Responder / SMB tools** — pivoting, relay e captura de credenciais.  
-- **Ghidra / Radare2 / IDA (familiarização)** — engenharia reversa de binários.
+<div align="center">
 
-> ⚙️ Aplicação prática sempre em **laboratórios autorizados**, VMs isoladas e CTFs.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2200&pause=700&color=FF6B00&center=true&vCenter=true&width=850&height=60&lines=LIST+ENTERPRISE;AI+%E2%80%A2+SOFTWARE+%E2%80%A2+INFRASTRUCTURE+%E2%80%A2+SECURITY;Building+the+List+ecosystem" />
 
----
+</div>
 
-## 🧪 Laboratórios, Projetos e Práticas
-- **Lab de Redes & Pentest** — topologias, hardening, captura de pacotes, exploração controlada.  
-- **Red Team / Blue Team Exercises** — campanhas simuladas, IOCs, resposta e mitigação.  
-- **TCC / Projeto Acadêmico:** *Hardening e detecção de intrusão em ambientes containerizados (K8s + Falco)*.  
-- **CTFs & Plataformas:** HackTheBox, TryHackMe, OverTheWire.  
-- **Automação Recon/OSINT** — scripts Python para coleta e normalização de dados.  
-- **SIEM PoC** — ingestão de logs, correlação básica e visualização (Elastic Stack / Grafana).
+**List Enterprise** is the technology company I founded and lead as CEO.
 
----
+We build products and technologies around **artificial intelligence, software development, AI models, infrastructure and cybersecurity**.
 
-## 🏆 Certificações & Cursos
-- **Red Hat Certified Engineer (RHCE)**  
-- **OSCP (Offensive Security Certified Professional)**  
-- **CEH (Certified Ethical Hacker)**  
-- **AWS / Azure Security Certifications**
-- **CompTIA Security+**
-- **RHCSA**
-- Cursos: Kubernetes Security, Malware Analysis, Forensics, Network Defense.
-  
----
+### 🌐 Our ecosystem
 
-## 📂 Projetos & Repositórios (exemplos)
-- **pentest-scripts** — automações de reconnaissance e scanning (Python).  
-- **siem-playbook** — playbooks para ingestão e correlação de logs.  
-- **Linux-Server-Master** — Ansible/Terraform para hardening de servidores Linux.  
-- **forensic-toolkit** — scripts e exemplos de análise forense.
+| Product                  | Description                               |
+| ------------------------ | ----------------------------------------- |
+| 🧠 **List Coder**        | AI-powered coding platform                |
+| ⚡ **List Coder CLI**     | AI development directly from the terminal |
+| ☁️ **List Cloud**        | AI models and cloud technologies          |
+| 🧩 **List Coder Omni**   | Advanced AI development experience        |
+| 🤖 **List AI Models**    | Our growing family of AI models           |
+| 🛡️ **List Security AI** | AI and cybersecurity technologies         |
+| 🔬 **List Research**     | Experimental technologies and research    |
+
+<br>
+
+<div align="center">
+
+### **50M+ users**
+
+### **AI Models • Developer Tools • Infrastructure**
+
+</div>
 
 ---
 
+# 💻 List Coder
 
-## ⚡ Filosofia
-> "A melhor defesa é um código bem escrito, monitorado e seguro."
+<div align="center">
+
+<a href="https://list-coder.com/">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111111,100:ff6b00&height=105&section=header&text=LIST%20CODER&fontSize=38&fontColor=ffffff&animation=fadeIn" width="82%"/>
+</a>
+
+<br><br>
+
+<a href="https://list-coder.com/">
+<img src="https://img.shields.io/badge/EXPLORE%20LIST%20CODER-FF6B00?style=for-the-badge&logoColor=white"/>
+</a>
+
+</div>
+
+**List Coder** is an AI-powered development platform built by **List Enterprise** to help developers write, understand, debug and ship software faster.
+
+### ⚡ Main capabilities
+
+* 🤖 AI coding agents
+* 🧠 AI-assisted software engineering
+* ✨ Intelligent code generation
+* 🧩 Multi-file editing
+* 🐛 AI debugging
+* 🧪 Test generation
+* 🔎 Semantic code search
+* 🖥️ Integrated terminal
+* 🔗 Git & GitHub integration
+* 🧠 Local and offline AI models
+* 🔌 MCP support
+* 🌎 50+ programming languages
+
+🌐 **https://list-coder.com/**
 
 ---
 
+# 🧠 List AI Models
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2300&pause=700&color=FF6B00&center=true&vCenter=true&width=800&height=65&lines=LIST+AI+MODEL+FAMILY;AI+FOR+CODING+%26+SOFTWARE+ENGINEERING;BUILT+BY+LIST+ENTERPRISE" />
+
+<br>
+
+<a href="https://huggingface.co/List-cloud">
+<img src="https://img.shields.io/badge/HUGGING%20FACE-List--cloud-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white" />
+</a>
+
+</div>
+
+We are building a growing family of AI models focused on **coding, reasoning, software engineering and developer workflows**.
+
+## 🌌 List-3.0-Ultra-Coder-Brain
+
+<div align="center">
+
+<a href="https://huggingface.co/List-cloud/List-3.0-Ultra-Coder-Brain">
+<img src="https://img.shields.io/badge/OPEN%20MODEL-List--3.0--Ultra--Coder--Brain-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</a>
+
+</div>
+
+Our flagship public coding model in the List AI model family.
+
+**Focus:**
+
+`Coding` · `Reasoning` · `Architecture` · `Multi-file Development` · `Security Analysis`
+
+👉 **https://huggingface.co/List-cloud/List-3.0-Ultra-Coder-Brain**
+
+---
+
+## ⚡ List-2.0-Ultra-Coder
+
+<div align="center">
+
+<a href="https://huggingface.co/List-cloud/List-2.0-Ultra-Coder">
+<img src="https://img.shields.io/badge/OPEN%20MODEL-List--2.0--Ultra--Coder-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</a>
+
+</div>
+
+A previous generation model focused on **high-performance coding and reasoning**.
+
+**Focus:**
+
+`Code Generation` · `Reasoning` · `Software Engineering` · `Programming`
+
+👉 **https://huggingface.co/List-cloud/List-2.0-Ultra-Coder**
+
+---
+
+## 🤖 List AI on Hugging Face
+
+<div align="center">
+
+<a href="https://huggingface.co/List-cloud">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20MODELS-List--cloud-111111?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</a>
+
+</div>
+
+More List models and experiments are being developed for the ecosystem.
+
+---
+
+# 📦 AI & Open Source Projects
+
+<div align="center">
+
+<a href="https://github.com/legitey01/List-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=legitey01&repo=List-AI&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/legitey01/List-Security-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=legitey01&repo=List-Security-AI&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br>
+
+<a href="https://github.com/legitey01/Cyber-Shield-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=legitey01&repo=Cyber-Shield-AI&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/legitey01/List-Clown">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=legitey01&repo=List-Clown&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# 🔬 What I'm Building
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2100&pause=650&color=FF6B00&center=true&vCenter=true&width=850&height=120&lines=AI+Models;AI+Agents;Developer+Tools;AI+Infrastructure;Cloud+Technologies;Cybersecurity+Systems;Next-generation+Software" />
+
+</div>
+
+---
+
+# 🛡️ Cybersecurity
+
+Security is another major part of my engineering interests.
+
+### Areas I work with
+
+`Application Security`
+
+`Cloud Security`
+
+`Linux Security`
+
+`Network Security`
+
+`DevSecOps`
+
+`Security Automation`
+
+`Vulnerability Research`
+
+`Threat Detection`
+
+`Defensive Security`
+
+`Security Engineering`
+
+All offensive security experimentation is performed in **authorized environments, isolated labs and CTFs**.
+
+---
+
+# ⚙️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,bash,powershell,go,rust,js,ts" />
+
+<br><br>
+
+### AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+<br><br>
+
+### Web / Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,vite,html,css" />
+
+<br><br>
+
+### Cloud / Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,azure,terraform,ansible,nginx" />
+
+<br><br>
+
+### Databases / Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,git,github,gitlab,figma,vscode" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=legitey01&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" />
+
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legitey01&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=legitey01&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+---
+
+# 🌎 Vision
+
+<div align="center">
+
+### **AI should empower developers to build what was previously impossible.**
+
+<br>
+
+**Idea → Intelligence → Code → Test → Deploy**
+
+<br>
+
+> Build technology that makes the impossible feel obvious.
+
+</div>
+
+---
+
+# 🌐 List Ecosystem
+
+<div align="center">
+
+<a href="https://list-coder.com/">
+<img src="https://img.shields.io/badge/LIST%20CODER-FF6B00?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</a>
+
+<a href="https://huggingface.co/List-cloud">
+<img src="https://img.shields.io/badge/LIST%20AI-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</a>
+
+<a href="https://github.com/legitey01">
+<img src="https://img.shields.io/badge/LIST%20ENTERPRISE-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/legitey01">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=FF6B00&center=true&vCenter=true&width=850&height=60&lines=CEO+%26+Founder+of+List+Enterprise;Building+List+Coder+and+List+AI;The+future+is+being+built." />
+
+<br>
+
+### ⚡ Build faster. Think bigger. Ship smarter.
+
+**Rafael Camargo — CEO & Founder, List Enterprise**
+
+<br>
+
+<a href="https://list-coder.com/">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,50:171717,100:0b0b0b&height=130&section=footer" width="100%"/>
+</a>
+
+</div>
