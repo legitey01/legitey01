@@ -1,7 +1,6 @@
 <div align="center">
 
-<a href="https://list-coder.com/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,50:171717,100:ff6b00&height=230&section=header&text=RAFAEL%20CAMARGO&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CEO%20%26%20Founder%20of%20List%20Enterprise&descAlignY=58&descSize=19&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,50:171717,100:ff6b00&height=230&section=header&text=RAFAEL%20CAMARGO&fontSize=50&fontColor=Founder%20of%20List%20Enterprise&descAlignY=58&descSize=19&descColor=ffffff" width="100%"/>
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=FF6B00&center=true&vCenter=true&width=1000&height=90&lines=CEO+%26+Founder+of+List+Enterprise;Building+the+future+of+AI+%26+Software;Creator+of+List+Coder;Building+AI+Models+with+List+Cloud;AI+%7C+Developer+Tools+%7C+Cybersecurity;Build+faster.+Think+bigger.+Ship+smarter." alt="Typing Animation" />
